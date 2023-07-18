@@ -1,3 +1,7 @@
+#include <stdio.h>
+int _putchar(char c);
+int print_last_digit(int);
+
 /**
  * main - check the code
  *

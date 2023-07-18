@@ -1,8 +1,10 @@
+#include <stdio.h>
 /**
  * main - check the code
  *
  * Return: Always 0.
  */
+int _abs(int);
 int main(void)
 {
     int r;

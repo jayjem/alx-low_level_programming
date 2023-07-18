@@ -1,3 +1,4 @@
+void times_table(void);
 /**
  * main - check the code
  *

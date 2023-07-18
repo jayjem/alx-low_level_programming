@@ -1,3 +1,5 @@
+#include <stdio.h>
+int add(int, int);
 /**
  * main - check the code
  *
